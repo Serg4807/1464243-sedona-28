@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Ткачев](https://up.htmlacademy.ru/htmlcss/28/user/1464243).
-* Наставник:https://github.com/sergeykravchenko
+* Наставник:sergeykravchenko
 
 
 
