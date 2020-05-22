@@ -1,22 +1,14 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Ткачев](https://up.htmlacademy.ru/htmlcss/28/user/1464243).
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-* Наставник:https://github.com/sergeykravchenko
+* Наставник::[Сергей Кравченко](https://htmlacademy.ru/profile/id13921).
 =======
-* Наставник:sergeykravchenko
->>>>>>> a46da0da41a64d281aafee2f67d2cebb9fe42326
-=======
-* Наставник:sergeykravchenko
->>>>>>> a46da0da41a64d281aafee2f67d2cebb9fe42326
 
 
 
-=======
-* Наставник: `Неизвестно`.
->>>>>>> parent of 9d5920d... Update Readme.md
+
+
+
 
 ---
 
