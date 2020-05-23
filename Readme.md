@@ -1,16 +1,13 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Ткачев](https://up.htmlacademy.ru/htmlcss/28/user/1464243).
-* Наставник::[Сергей Кравченко](https://htmlacademy.ru/profile/id13921).
-=======
+* Наставник:[Сергей Кравченко](https://htmlacademy.ru/profile/id13921).
 
 
 
 
 
 
-
----
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
